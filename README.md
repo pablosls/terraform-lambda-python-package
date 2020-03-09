@@ -1,1 +1,1 @@
-# terraform-lambda-python-package
+Building python AWS lambda with Terraform
